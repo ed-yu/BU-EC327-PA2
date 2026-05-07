@@ -1,6 +1,6 @@
 # BU-EC327-PA2
 
-*C++ code for solving problems relating to Functions, Header Files, File I/O, Arrays, Random Numbers, and Recursion. Developed as part of EC327: Intro to Software Engineering at Boston University.*
+*C++ code for solving problems relating to Functions, Header Files, File I/O, Arrays, Random Numbers, and Recursion. Developed as part of EC327: Introduction to Software Engineering at Boston University.*
 
 ## Q1: Functions, Header Files, File I/O
 A C++ program that interactively accepts commands from the user via console. Each command is a single character followed by either one, two, or three parameters and specifies a function that needs to be performed.
