@@ -18,5 +18,15 @@ The following table lists all the commands in this program:
 | U or u | Compute the area of square values |
 | C or c | Compute the area of circle values |
 | E or e | Compute even numbers |
+| K or k | Compute lucky numbers |
+| S or s | Computer sin values |
+| N or n | Compute cosine values |
+| X or x | Compute exponentials |
+| L or l | Compute natural logs |
+| Y or y | Compute NyanCat value |
+| D or d | Compute odd numbers |
+| I or i | Read from input file |
+| O or o | Write to output file |
+| Q or q | Quit program |
 
 to be continued...
